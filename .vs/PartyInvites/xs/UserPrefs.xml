@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3012F503-0219-412F-8EE0-A7DE706BD62C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/App_Start/RouteConfig.cs">
+    <Files>
+      <File FileName="PartyInvites/Models/GuestResponse.cs" Line="25" Column="2" />
+      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="12" Column="67" />
+      <File FileName="PartyInvites/Content/Styles.css" Line="22" Column="1" />
+      <File FileName="PartyInvites/Views/Home/Thanks.cshtml" Line="17" Column="10" />
+      <File FileName="PartyInvites/App_Start/RouteConfig.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
